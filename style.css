@@ -1,0 +1,13 @@
+html{
+    scroll-behavior: smooth;
+}
+#blue{
+    background-color: blue;
+    color: aliceblue;
+}
+
+#map iframe{
+    width: 50%;
+    float:left;
+    padding-top: 5px;
+}
